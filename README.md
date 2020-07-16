@@ -1,4 +1,5 @@
 # Hi, I'm Ravi 👋
+![image](https://github.com/rdp77/rdp77/blob/master/dino.gif)
 
 I was born in Lamongan and grew up in the city of Surabaya. I was a figure who like information and technology activities, in this case I also often contribute to my activities such as finding defects in an application that is distributed on the internet for free and fix it. I also like things outside of information technology such as building relationships and running a business in order to grow my entrepreneurial spirit, besides that I am also happy to contribute developing human resources in my country.
 
