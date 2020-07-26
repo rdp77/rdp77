@@ -12,7 +12,6 @@ I was born in Lamongan and grew up in the city of Surabaya. I was a figure who l
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/RaviDwiPutra77)
 ![Keybase BTC](https://img.shields.io/keybase/btc/rdp77)
 
----
-
-![rdp77 github stats](https://github-readme-stats.vercel.app/api?username=rdp77&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdp77&hide=language1,language2)
+## Github stats ✨:
+![rdp77 github stats](https://github-readme-stats.vercel.app/api?username=rdp77&show_icons=true&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdp77)
