@@ -14,4 +14,4 @@ I was born in Lamongan and grew up in the city of Surabaya. I was a figure who l
 
 ## Github stats ✨:
 ![rdp77 github stats](https://github-readme-stats.vercel.app/api?username=rdp77&show_icons=true&hide_border=true&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdp77)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdp77&hide_border=true&layout=compact)
