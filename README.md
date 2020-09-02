@@ -8,9 +8,9 @@ I was born in Lamongan and grew up in the city of Surabaya. I was a figure who l
 - Chat with me on <a href="https://web.facebook.com/ravidwiputra77/"> Facebook</a> or <a href="https://t.me/rdp77">Telegram</a> 💬
 - Sharing updates on <a href="https://www.linkedin.com/in/moh-ravi-dwi-putra/">LinkedIn</a> 💼
 
-## Donate to me 💖:
+<!---## Donate to me 💖:
 [![paypal.me/RaviDwiPutra77](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/RaviDwiPutra77)
-![Keybase BTC](https://img.shields.io/keybase/btc/rdp77)
+![Keybase BTC](https://img.shields.io/keybase/btc/rdp77)-->
 
 ## Github stats ✨:
 ![rdp77 github stats](https://github-readme-stats.vercel.app/api?username=rdp77&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true)
