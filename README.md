@@ -6,7 +6,7 @@ I was born in Lamongan and grew up in the city of Surabaya. I was a figure who l
 ## Find me around the web 🌎:
 - Learning with me on <a href="https://www.backupotak.com/">My Blog</a> or <a href="https://www.youtube.com/channel/UCgy1w-3_8D1VMfarucu2lrA">Youtube</a> 💡 ✍
 - Chat with me on <a href="https://web.facebook.com/ravidwiputra77/"> Facebook</a> or <a href="https://t.me/rdp77">Telegram</a> 💬
-- Sharing updates on <a href="https://www.linkedin.com/in/moh-ravi-dwi-putra/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/rdp77/">LinkedIn</a> 💼
 
 <!---## Donate to me 💖:
 [![paypal.me/RaviDwiPutra77](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/RaviDwiPutra77)
