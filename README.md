@@ -13,12 +13,8 @@ I was born in Lamongan and grew up in the city of Surabaya. I was a figure who l
 ![Keybase BTC](https://img.shields.io/keybase/btc/rdp77)-->
 
 ## Github stats ✨:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rdp77&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdp77&hide_border=true&layout=compact&hide=html" />
-</a>
+|![rdp77 github stats](https://github-readme-stats.vercel.app/api?username=rdp77&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdp77&hide_border=true&layout=compact&hide=html)|
+| ------------- | ------------- |
 
 <p align="center">
 <a href="https://img.shields.io/keybase/btc/rdp77" target="_blank">
