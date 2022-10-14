@@ -41,17 +41,6 @@ jobs:
           plugin_topics_limit: 20
           plugin_topics_mode: icons
 
-      - name: Featured star list languages
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.starlists.languages.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_starlists: yes
-          plugin_starlists_languages: yes
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 0
-
       - name: Indepth analysis
         uses: lowlighter/metrics@latest
         with:
@@ -60,14 +49,11 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
-          
-      - name: Contributors and sponsors
+     
+      - name: Compact display in base plugin
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.people.repository.svg
+          filename: metrics.plugin.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_people: yes
-          plugin_people_types: contributors, stargazers          
+          base: repositories
+          plugin_lines: yes
