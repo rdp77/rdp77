@@ -1,7 +1,4 @@
 # Hi, I'm Ravi <img src="https://raw.githubusercontent.com/rdp77/rdp77/master/wave.gif" width="20px" height="20px">
-![image](https://github.com/rdp77/rdp77/blob/master/greetings.gif)
-
-I was born in Lamongan and grew up in the city of Surabaya. I was a figure who like information and technology activities, in this case I also often contribute to my activities such as finding defects in an application that is distributed on the internet for free and fix it. I also like things outside of information technology such as building relationships and running a business in order to grow my entrepreneurial spirit, besides that I am also happy to contribute developing human resources in my country.
 
 ## Find me around the web 🌎:
 - Learning with me on <a href="https://www.backupotak.com/" target="_blank">My Blog</a> or <a href="https://www.youtube.com/channel/UCgy1w-3_8D1VMfarucu2lrA" target="_blank">Youtube</a> 💡 ✍
