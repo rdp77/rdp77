@@ -10,5 +10,5 @@
 ![Keybase BTC](https://img.shields.io/keybase/btc/rdp77)-->
 
 ## Github stats ✨:
-|![rdp77 github stats](https://github-readme-stats.vercel.app/api?username=rdp77&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdp77&hide_border=true&layout=compact&hide=html)|
-| ------------- | ------------- |
+[<img align="left" src="https://raw.githubusercontent.com/rdp77/rdp77/master/github-metrics.svg">](#)
+[<img align="right" src="https://raw.githubusercontent.com/rdp77/rdp77/master/metrics.plugin.languages.details.svg">](#)
