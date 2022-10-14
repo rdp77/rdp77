@@ -10,5 +10,5 @@
 ![Keybase BTC](https://img.shields.io/keybase/btc/rdp77)-->
 
 ## Github stats ✨:
-[<img align="left" src="https://raw.githubusercontent.com/rdp77/rdp77/master/github-metrics.svg">](#)
-[<img align="right" src="https://raw.githubusercontent.com/rdp77/rdp77/master/metrics.plugin.languages.details.svg">](#)
+[<img align="left" width="390" src="https://raw.githubusercontent.com/rdp77/rdp77/master/github-metrics.svg">](#)
+[<img align="right" width="390" src="https://raw.githubusercontent.com/rdp77/rdp77/master/metrics.plugin.languages.details.svg">](#)
