@@ -12,3 +12,4 @@
 ## Github stats ✨:
 [<img align="left" width="390" src="https://raw.githubusercontent.com/rdp77/rdp77/master/github-metrics.svg">](#)
 [<img align="right" width="390" src="https://raw.githubusercontent.com/rdp77/rdp77/master/metrics.plugin.languages.details.svg">](#)
+[<img align="right" width="390" src="https://raw.githubusercontent.com/rdp77/rdp77/master/metrics.plugin.followup.indepth.svg">](#)
