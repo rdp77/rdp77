@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="201" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="181" class="">
     <defs>
         <style/>
     </defs>
@@ -22,13 +22,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.8180348527766" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="388.8180348527766" y="0" width="68.89079906153317" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.7088339143097" y="0" width="1.6714897870592045" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.3803237013689" y="0" width="0.28708969298022746" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.6674133943491" y="0" width="0.17038385093708758" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.83779724528625" y="0" width="0.08247880682304877" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.9202760521093" y="0" width="0.07972394789069998" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.88543372680675" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="388.88543372680675" y="0" width="68.90274079743939" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.78817452424613" y="0" width="1.6717795280678576" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.459954052314" y="0" width="0.2871394579610619" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.7470935102751" y="0" width="0.170413385780322" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.9175068960554" y="0" width="0.08249310394461448" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +40,7 @@
                             </div>
                             <small>
                                 <div>353k lines</div>
-                                <div>84.53%</div>
+                                <div>84.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -66,18 +65,6 @@
                             <small>
                                 <div>187 lines</div>
                                 <div>0.04%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#945db7" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Visual Basic .NET
-                            </div>
-                            <small>
-                                <div>67 lines</div>
-                                <div>0.02%</div>
                             </small>
                         </div>
                     </section>
