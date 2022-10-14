@@ -28,25 +28,13 @@ jobs:
             gnuplot
           plugin_languages_indepth: yes
           plugin_languages_details: lines, percentage
-          plugin_languages_limit: 7
+          plugin_languages_limit: 6
           plugin_languages_analysis_timeout: 15
 
       - name: Icons
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.icons.svg
-          token: NOT_NEEDED
-          base: ""
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-          
-      - name: News from hackernews
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.rss.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_rss: yes
-          plugin_rss_source: https://news.ycombinator.com/rss
-          plugin_rss_limit: 5
