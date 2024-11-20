@@ -10,10 +10,10 @@
 ![Keybase BTC](https://img.shields.io/keybase/btc/rdp77)-->
 
 ## Github stats ✨:
-<div align="center">
-    <img src="https://indogithubers-badge.vercel.app/badge?username=rdp77">
-</div>
-
 [<img align="left" width="390" src="https://raw.githubusercontent.com/rdp77/rdp77/master/github-metrics.svg">](#)
 [<img align="right" width="390" src="https://raw.githubusercontent.com/rdp77/rdp77/master/metrics.plugin.languages.details.svg">](#)
 [<img align="right" width="390" src="https://raw.githubusercontent.com/rdp77/rdp77/master/metrics.plugin.followup.indepth.svg">](#)
+
+<div align="center">
+    <img src="https://indogithubers-badge.vercel.app/badge?username=rdp77">
+</div>
