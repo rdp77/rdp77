@@ -15,5 +15,5 @@
 [<img align="right" width="390" src="https://raw.githubusercontent.com/rdp77/rdp77/master/metrics.plugin.followup.indepth.svg">](#)
 
 <div align="center">
-    <img src="https://indogithubers-badge.vercel.app/badge?username=rdp77">
+    <a href="https://indogithubers.vercel.app/u/rdp77"><img src="https://indogithubers-badge.vercel.app/badge?username=rdp77"></a>
 </div>
